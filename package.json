@@ -1,0 +1,1 @@
+{"name":"tsp-solver","version":"1.0.0","main":"index.js","scripts":{"test":"jest"},"dependencies":{"lodash":"^4.17.21"},"devDependencies":{"jest":"^27.0.6"}}
